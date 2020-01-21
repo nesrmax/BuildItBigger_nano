@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuildItBigger_nano.iml" filepath="$PROJECT_DIR$/BuildItBigger_nano.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tell_Me_Joke/Tell_Me_Joke.iml" filepath="$PROJECT_DIR$/Tell_Me_Joke/Tell_Me_Joke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/View_Of_Joke/View_Of_Joke.iml" filepath="$PROJECT_DIR$/View_Of_Joke/View_Of_Joke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+    </modules>
+  </component>
+</project>
